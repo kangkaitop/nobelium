@@ -1,6 +1,6 @@
 const BLOG = {
-  title: '里才以后',
-  author: 'LiCaiYiHou',
+  title: '里才pro',
+  author: 'kkcn.top',
   email: '405930026@qq.com',
   link: 'https://blog.kkcn.top',
   description: '保持深度、独立的投资思考笔记.',
